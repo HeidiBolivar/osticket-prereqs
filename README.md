@@ -42,7 +42,7 @@ To facilitate reproducing this setup, all necessary installation files are avail
    
 2. Within the portal, locate the field entitled "Search resources, services, and docs (G+/)", and enter the search term "vm". Click on "Virtual machines" in the resulting list <br/>
    
-![image](https://github.com/user-attachments/assets/642f9230-e49f-4f66-8eb3-c4016092cd14)
+![image](https://github.com/user-attachments/assets/2b7a84ad-27e0-4e4d-9af3-cd483c19a931)
 <br />
 <br />
 
