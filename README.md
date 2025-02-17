@@ -189,6 +189,7 @@ To facilitate reproducing this setup, all necessary installation files are avail
 <br />
 
 27. Copy and paste "https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0"
+
     into the search bar, this is an archive containing all the applications and dependencies required to correctly install, configure and run the ticketing system.
 
 ![image](https://github.com/user-attachments/assets/25a0b084-6b5f-4925-8059-6ba5bedad582)
