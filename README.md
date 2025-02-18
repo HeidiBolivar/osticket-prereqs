@@ -398,9 +398,9 @@ Before you start, consider having an Azure account (with an active subscription)
     ![image](img/83.png)
     
 84.  Click the "**Open**" button.<br/>
-
-    ![image](img/84.png)
-
+    
+     ![image](img/84.png)
+    
 85. Click on "**Database**".<br/>
 
     ![image](img/85.png)
