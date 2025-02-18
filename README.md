@@ -285,11 +285,11 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/57.png)
 
-58. Go to the **osTicket** folder.<br/>
+58. Go to the "**osTicket**" folder.<br/>
 
     ![image](img/58.png)
 
-59. Click **Browse *:80 (http)** on the right-hand side.<br/>
+59. Click "**Browse *:80 (http)**" on the right-hand side.<br/>
 
     ![image](img/59.1.png)
 
