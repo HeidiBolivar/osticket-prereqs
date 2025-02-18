@@ -218,7 +218,7 @@ To facilitate reproducing this setup, all necessary installation files are avail
 <br />
 <br />
 
-32. CClick 'Uninstall', then click 'Turn Windows features on or off' 
+32. Click 'Uninstall', then click 'Turn Windows features on or off' 
 
 ![image](img/32.1.png)
 ![image](img/32.2.png)
