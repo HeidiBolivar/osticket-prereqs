@@ -227,7 +227,7 @@ To facilitate reproducing this setup, all necessary installation files are avail
 
 33. Enable CGI feature
 
-![image](img/3.png)
+![image](img/33.png)
 <br />
 <br />
 
