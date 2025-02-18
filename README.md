@@ -67,28 +67,28 @@ Before you start, consider having an Azure account (with an active subscription)
     ![image](img/6.1.png)
     ![image](img/6.2.png)
 
-7.  Select the virtual machine image and choose the '**Windows 10 Pro, version 22H2 - x64 Gen2**' option.<br/>
+7.  Select the virtual machine image and choose the "**Windows 10 Pro, version 22H2 - x64 Gen2**" option.<br/>
 
     ![image](img/7.1.png)
     ![image](img/7.2.png)
 
-8.  Click on the field marked as '**Username**'. Here, a username must be typed and set up.<br/>
+8.  Click on the field marked as "**Username**". Here, a username must be typed and set up.<br/>
 
     ![image](img/8.png)
 
-9.  Click on the field marked as '**Password**' and then enter and set up a password.<br/>
+9.  Click on the field marked as "**Password**" and then enter and set up a password.<br/>
 
     ![image](img/9.png)
 
-10. Click on the '**Confirm Password**' box and enter the password again.<br/>
+10. Click on the "**Confirm Password**" box and enter the password again.<br/>
 
     ![image](img/10.png)
 
-11. The '**Licensing**' box must be checked.<br/>
+11. The "**Licensing**" box must be checked.<br/>
 
     ![image](img/11.png)
 
-12. Click on the option titled '**Review + Create**'.<br/>
+12. Click on the option titled "**Review + Create**".<br/>
 
     ![image](img/12.png)
 
@@ -175,7 +175,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/31.png)
 
-32. Click '**Uninstall**', then click '**Turn Windows features on or off**'.<br/>
+32. Click "**Uninstall**", then click "**Turn Windows features on or off**".<br/>
 
     ![image](img/32.1.png)
     ![image](img/32.2.png)
@@ -188,7 +188,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/34.png)
 
-35. Navigate to the '**osTicket-Installation-Files**' folder in File Explorer.<br/>
+35. Navigate to the "**osTicket-Installation-Files**" folder in File Explorer.<br/>
 
     ![image](img/35.png)
 
@@ -204,7 +204,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/38.png)
 
-39. Extract "**php-7.3.8-nts-Win32-VC15-x86**" to the '**PHP**' folder.<br/>
+39. Extract "**php-7.3.8-nts-Win32-VC15-x86**" to the "**PHP**" folder.<br/>
 
     ![image](img/39.png)
 
@@ -221,11 +221,11 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/42.png)
 
-43. Click the '**Next**' button.<br/>
+43. Click the "**Next**" button.<br/>
 
     ![image](img/43.png)
 
-44. Click the '**Next**' button.<br/>
+44. Click the "**Next**" button.<br/>
 
     ![image](img/44.png)
 
@@ -233,7 +233,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/45.png)
 
-46. Click the '**Finish**' button.<br/>
+46. Click the "**Finish**" button.<br/>
 
     ![image](img/46.png)
 
@@ -277,7 +277,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/55.png)
 
-56. Rename '**upload**' to '**osTicket**'.<br/>
+56. Rename "**upload**" to "**osTicket**".<br/>
 
     ![image](img/56.png)
 
@@ -301,7 +301,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/60.png)
 
-61. Click on the '**Enable or disable extension**' button.<br/>
+61. Click on the "**Enable or disable extension**" button.<br/>
 
     ![image](img/61.png)
 
@@ -317,15 +317,15 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/64.png)
 
-65. Enter the properties of the '**ost-config.php**' file.<br/>
+65. Enter the properties of the "**ost-config.php**" file.<br/>
 
     ![image](img/65.png)
 
-66. Press the '**Security**' button.<br/>
+66. Press the "**Security**" button.<br/>
 
     ![image](img/66.png)
 
-67. Click on '**Advanced**'.<br/>
+67. Click on "**Advanced**".<br/>
 
     ![image](img/67.png)
 
@@ -333,7 +333,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/68.png)
 
-69. Click the '**Add**' button.<br/>
+69. Click the "**Add**" button.<br/>
 
     ![image](img/69.png)
 
@@ -341,31 +341,31 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/70.png)
 
-71. Click here and type in '**Everyone**'.<br/>
+71. Click here and type in "**Everyone**".<br/>
 
     ![image](img/71.png)
 
-72. Click on the '**Check names**' button.<br/>
+72. Click on the "**Check names**" button.<br/>
 
     ![image](img/72.png)
 
-73. Press '**OK**'.<br/>
+73. Press "**OK**".<br/>
 
     ![image](img/73.png)
 
-74. Click on '**Full control**'.<br/>
+74. Click on "**Full control**".<br/>
 
     ![image](img/74.png)
 
-75. Click '**OK**'.<br/>
+75. Click "**OK**".<br/>
 
     ![image](img/75.png)
 
-76. Click the '**Apply**' button.<br/>
+76. Click the "**Apply**" button.<br/>
 
     ![image](img/76.png)
 
-77. Press '**OK**'.<br/>
+77. Press "**OK**".<br/>
 
     ![image](img/77.png)
 
@@ -381,7 +381,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
 ### Setting up osTicket
 
-80. Fill in the '**Admin user**' and '**System settings**' fields.<br/>
+80. Fill in the "**Admin user**" and "**System settings**" fields.<br/>
 
     ![image](img/80.png)
 
@@ -389,7 +389,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/81.png)
 
-82. In HeidiSQL, click on '**New**'.<br/>
+82. In HeidiSQL, click on "**New**".<br/>
 
     ![image](img/82.png)
 
@@ -397,11 +397,11 @@ Before you start, consider having an Azure account (with an active subscription)
     
     ![image](img/83.png)
     
-84.  Click the '**Open**' button.<br/>
+84.  Click the "**Open**" button.<br/>
 
     ![image](img/84.png)
 
-85. Click on '**Database**'.<br/>
+85. Click on "**Database**".<br/>
 
     ![image](img/85.png)
 
@@ -413,15 +413,15 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/87.png)
 
-88. Click '**Install**'.<br/>
+88. Click "**Install**".<br/>
 
     ![image](img/88.png)
 
 <br/>
 
-## Successfully Installed osTicket! What's Next?
+## Successfully Installed osTicket! What"s Next?
 
-**By following the steps outlined in this comprehensive guide, you have now successfully installed osTicket and have it ready to use! But the setup doesn't end here. osTicket is now installed and ready for use! In the next project, I will extend this foundation by providing a detailed walkthrough on configuring agents (including their permissions and access levels), managing users, and exploring other key configuration options to tailor osTicket to specific support workflows.**
+**By following the steps outlined in this comprehensive guide, you have now successfully installed osTicket and have it ready to use! But the setup doesn"t end here. osTicket is now installed and ready for use! In the next project, I will extend this foundation by providing a detailed walkthrough on configuring agents (including their permissions and access levels), managing users, and exploring other key configuration options to tailor osTicket to specific support workflows.**
 
 [Next: osTicket: Post-Installation Configuration](https://github.com/HeidiBolivar/post-install-config)
 </b>
