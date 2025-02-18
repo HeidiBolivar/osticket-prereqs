@@ -253,7 +253,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/49.png)
 
-50. Click `...`.<br/>
+50. Click "`...`".<br/>
 
     ![image](img/50.png)
 
