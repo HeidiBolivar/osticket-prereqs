@@ -47,7 +47,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/2.png)
 
-3.  The following steps should be taken in order to create a virtual machine: firstly, click on **Create** > **Azure virtual machine**.<br/>
+3.  The following steps should be taken in order to create a virtual machine: firstly, click on "**Create**" > "**Azure virtual machine**".<br/>
 
     ![image](img/3.1.png)
     ![image](img/3.2.png)
@@ -100,17 +100,17 @@ Before you start, consider having an Azure account (with an active subscription)
 
 ### Establishing connection with the virtual machine implementing Remote Desktop Protocol
 
-14. Download [Microsoft Remote Desktop](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=es=EN&gl=EN). If you are using a Windows computer, look for **Remote Desktop** in the Applications list.<br/>
+14. Download [Microsoft Remote Desktop](https://apps.microsoft.com/detail/9wzdncrfj3ps?hl=es=EN&gl=EN). If you are using a Windows computer, look for "**Remote Desktop**" in the Applications list.<br/>
 
 15. To establish a remote connection to the virtual machine, it is necessary to download this software to facilitate the process.<br/>
 
     ![image](img/15.png)
 
-16. In the Azure Portal, click the search box, type **VM**, and click **Virtual Machines**.<br/>
+16. In the Azure Portal, click the search box, type "**VM**", and click "**Virtual Machines**".<br/>
 
     ![image](img/16.png)
 
-17. Identify the **public IP address** of our virtual machine (`74.249.118.131`) and copy it by pressing `[[ctrl]]` + `[[c]]`.<br/>
+17. Identify the "**public IP address**" of our virtual machine (`74.249.118.131`) and copy it by pressing `[[ctrl]]` + `[[c]]`.<br/>
 
     ![image](img/17.png)
 
@@ -118,7 +118,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/18.png)
 
-19. Click **Add** > Click **PC** to enter our virtual machine information.<br/>
+19. Click "**Add**" > Click "**PC**" to enter our virtual machine information.<br/>
 
     ![image](img/19.1.png)
     ![image](img/19.2.png)
@@ -127,7 +127,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/20.png)
 
-21. Click the **Display name** section and enter a name for this PC.<br/>
+21. Click the "**Display name**" section and enter a name for this PC.<br/>
 
     ![image](img/21.png)
 
@@ -151,7 +151,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/25.png)
 
-26. Open **Microsoft Edge** on the virtual machine.<br/>
+26. Open "**Microsoft Edge**" on the virtual machine.<br/>
 
     ![image](img/26.png)
 
@@ -180,7 +180,7 @@ Before you start, consider having an Azure account (with an active subscription)
     ![image](img/32.1.png)
     ![image](img/32.2.png)
 
-33. Enable the **CGI** feature.<br/>
+33. Enable the "**CGI**" feature.<br/>
 
     ![image](img/33.png)
 
@@ -217,7 +217,7 @@ Before you start, consider having an Azure account (with an active subscription)
     ![image](img/41.1.png)
     ![image](img/41.2.png)
 
-42. Select the **Standard** option.<br/>
+42. Select the "**Standard**" option.<br/>
 
     ![image](img/42.png)
 
@@ -241,11 +241,11 @@ Before you start, consider having an Azure account (with an active subscription)
 
 ### Adapting our web server
 
-47. Open **IIS** as an administrator.<br/>
+47. Open "**IIS**" as an administrator.<br/>
 
     ![image](img/47.png)
 
-48. Go to **PHP Manager**.<br/>
+48. Go to "**PHP Manager**".<br/>
 
     ![image](img/48.png)
 
@@ -253,7 +253,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/49.png)
 
-50. Click here.<br/>
+50. Click `...`.<br/>
 
     ![image](img/50.png)
 
