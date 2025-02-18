@@ -188,7 +188,7 @@ To facilitate reproducing this setup, all necessary installation files are avail
 <br />
 <br />
 
-27. Copy and paste "https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0" into the search bar, this is an archive containing all the applications and dependencies required to correctly install, configure and run the ticketing system.
+27. Download [osTicket-Installation-Files.zip](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0), this is an archive containing all the applications and dependencies required to install, configure and run the ticketing system correctly.
 
 ![image](img/27.png)
 <br />
