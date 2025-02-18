@@ -32,7 +32,6 @@ To facilitate reproducing this setup, all necessary installation files are avail
 
 <h2>Project Walk-through:</h2>
 
-
 1. The first step is to navigate to the Microsoft Azure portal, which can be found at the following URL: https://portal.azure.com/#home <br/>
 <br />
 <br />
