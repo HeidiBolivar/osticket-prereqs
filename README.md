@@ -297,7 +297,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/59.2.png)
 
-60. Go to the **osTicket > PHP Manager** section.<br/>
+60. Go to the "**osTicket > PHP Manager**" section.<br/>
 
     ![image](img/60.png)
 
@@ -385,7 +385,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/80.png)
 
-81. Before establishing the database, it is necessary to connect to it using HeidiSQL. Install HeidiSQL and retain the default settings.<br/>
+81. Before establishing the database, connecting to it using HeidiSQL is necessary. **Install HeidiSQL** and retain the default settings.<br/>
 
     ![image](img/81.png)
 
