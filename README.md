@@ -110,7 +110,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
     ![image](img/16.png)
 
-17. Identify the public IP address of our virtual machine (`74.249.118.131`) and copy it by pressing `[[ctrl]]` + `[[c]]`.<br/>
+17. Identify the **public IP address** of our virtual machine (`74.249.118.131`) and copy it by pressing `[[ctrl]]` + `[[c]]`.<br/>
 
     ![image](img/17.png)
 
