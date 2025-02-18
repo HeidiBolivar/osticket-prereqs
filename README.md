@@ -48,7 +48,8 @@ To facilitate reproducing this setup, all necessary installation files are avail
 
 3. The following steps should be taken in order to create a virtual machine: firstly, click on "Create" > "Azure virtual machine".
    
-![image](img/3.png)
+![image](img/3.1.png)
+![image](img/3.2.png)
 <br />
 <br />
 
