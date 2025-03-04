@@ -426,6 +426,7 @@ Before you start, consider having an Azure account (with an active subscription)
 Next: [osTicket: Post-Installation Configuration](https://github.com/HeidiBolivar/post-install-config)
 </b>
 
+---
 Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on [LinkedIn](https://www.linkedin.com/in/heidibolivar/) 🤝 and let's see what we can build together ✨.
 <br/>
 <br/>
