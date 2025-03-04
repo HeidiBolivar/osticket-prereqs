@@ -423,7 +423,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
 **By following the steps outlined in this comprehensive guide, you have now successfully installed osTicket and have it ready to use! But the setup doesn't end here. osTicket is now installed and ready for use! In the next project, I will extend this foundation by providing a detailed walkthrough on configuring agents (including their permissions and access levels), managing users, and exploring other key configuration options to tailor osTicket to specific support workflows.**
 
-[Next: osTicket: Post-Installation Configuration](https://github.com/HeidiBolivar/post-install-config)
+Next: [osTicket: Post-Installation Configuration](https://github.com/HeidiBolivar/post-install-config)
 </b>
 
 <br/>
