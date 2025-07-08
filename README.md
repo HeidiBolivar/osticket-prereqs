@@ -31,7 +31,7 @@ Before you start, consider having an Azure account (with an active subscription)
 
 ## Index
 
-1.  [Creating our virtual machine in Azure](https://github.com/HeidiBolivar/osticket-prereqs/edit/main/README.md#creating-our-virtual-machine-in-azure)
+1.  [Creating our virtual machine in Azure](https://github.com/HeidiBolivar/osticket-prereqs/main/README.md#creating-our-virtual-machine-in-azure)
 2.  [Establishing connection with the virtual machine implementing Remote Desktop Protocol](https://github.com/HeidiBolivar/osticket-prereqs/edit/main/README.md#establishing-connection-with-the-virtual-machine-implementing-remote-desktop-protocol)
 3.  [Creating the environment for the ticketing system](https://github.com/HeidiBolivar/osticket-prereqs/edit/main/README.md#creating-the-environment-for-the-ticketing-system)
 4.  [Adapting our web server](https://github.com/HeidiBolivar/osticket-prereqs/edit/main/README.md#adapting-our-web-server)
